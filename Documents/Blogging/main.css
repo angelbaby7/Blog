@@ -1,0 +1,22 @@
+* { font-family: Roboto, sans-serif, times new roman, georgia;
+margin: 0 auto; 
+padding: px;
+color:black;
+text-align: center;
+text-decoration: none;
+list-style: none;
+}
+
+.banner {
+width: 100%;
+position: center;
+height:0;
+}
+
+.navigation {  
+    position: top;
+}
+
+.about {
+    position: bottom;
+}
